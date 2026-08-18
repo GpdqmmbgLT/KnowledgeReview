@@ -1,0 +1,4 @@
+Number,WeaponName,Damage,FireRate,BulletSpeed,BulletColor-R,BulletColor-G,BulletColor-B,BulletPrefabPath
+1,Pistol,10,0.5,15,255,200,50,Prefabs/Bullet_Pistol
+2,Rifle,20,0.2,30,0,150,255,Prefabs/Bullet_Rifle
+3,Shotgun,8,0.8,12,255,100,0,Prefabs/Bullet_Shotgun

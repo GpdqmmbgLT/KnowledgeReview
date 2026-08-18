@@ -1,0 +1,4 @@
+Numbers,AnimalName,AnimalAge,AnimalColor_R,AnimalColor_G,AnimalColor_B,AnimalColor_A,AnimalVoice
+1,Cat,3,135,206,235,255,喵喵
+2,Dog,5,211,211,211,255,汪汪
+3,Durk,1,255,182,193,255,嘎嘎
