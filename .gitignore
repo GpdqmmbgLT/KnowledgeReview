@@ -20392,3 +20392,6 @@ Packages/packages-lock.json
 ProjectSettings/ProjectVersion.txt
 ProjectSettings/SceneTemplateSettings.json
 ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+Assets/Media/AudioClip/丧尸-死亡.wav
+Assets/Media/AudioClip/商店系统.mp3
+Assets/Media/Img/游戏图标.png
